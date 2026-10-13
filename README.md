@@ -4,11 +4,10 @@ My name is **Daniel Felipe Charry Rodríguez**, and I'm a **student of Systems E
 
 ## About me  
 ✨ Creating bugs since **2022**  
-📚 I'm currently learning **Selenium and Python** for process and test automation.  
 🎯 Goals:  
 - 🎓 Short-term: Finish my degree.  
 - 💼 Mid-term: Gain work experience.  
-- 🚀 Long-term: Get a job as a **QA Engineer** or **Developer**.  
+- 🚀 Long-term: Get a job as a **QA Engineer** or **Data Engineer**.  
 🎲 Fun fact: *I enjoy automating things to avoid doing them manually!*  
 
 ## I code with  
